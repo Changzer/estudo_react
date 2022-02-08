@@ -1,4 +1,4 @@
-import logo from './icon.svg';
+import logo from './pokeball.svg';
 import './App.css';
 
 function App() {
