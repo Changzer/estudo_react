@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './icon.svg';
 import './App.css';
 
 function App() {
@@ -7,19 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          ooiii testando o ambiente React no tablet
         </p>
         <p>
-          testando o ambiente React.
+          sera que demora pra compilar? sera?
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          ta rodando liso!aaa
+        </p>
+
       </header>
     </div>
   );
