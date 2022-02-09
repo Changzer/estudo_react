@@ -19,14 +19,9 @@ function App() {
           <img src={imagem} className="App-logo" alt="logo"  />
           </div>
           <p>
-          ooiii testando o ambiente React no tablet
-        </p>
-        <p>
-          sera que demora pra compilar? sera?
-        </p>
-        <p>
-          ta rodando liso!aaa
-        </p>
+            React App
+          </p>
+          <p>Clique na Pokebola</p>
 
       </header>
     </div>
